@@ -36,7 +36,3 @@
 -- purpose: mostly for debt consolidation
 -- int_rate : Higher for defaulters
 -- issue_d : For year 2010, 2011 (just after recession in US) we can see spike for defaulters and more loan count.
-
-
-## Contact
-Created by [@ritesh9835] & [] - feel free to contact us!
